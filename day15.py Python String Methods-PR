@@ -1,0 +1,8 @@
+# DAY 15 - String Methods
+
+name = "ruchitha jangam"
+
+print("Uppercase:", name.upper())
+print("Lowercase:", name.lower())
+print("Title:", name.title())
+print("Length:", len(name))
