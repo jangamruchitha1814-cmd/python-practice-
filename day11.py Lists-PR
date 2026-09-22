@@ -1,0 +1,10 @@
+# DAY 11 - Lists
+
+fruits = ["apple", "banana", "mango"]
+
+fruits.append("grapes")
+fruits.remove("banana")
+
+print("Fruits:", fruits)
+print("First fruit:", fruits[0])
+print("Total fruits:", len(fruits))
