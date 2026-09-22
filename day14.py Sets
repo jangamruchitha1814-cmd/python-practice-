@@ -1,0 +1,10 @@
+# DAY 14 - Sets
+
+numbers = {10, 20, 30, 20, 40, 10}
+
+print("Set:", numbers)
+
+numbers.add(50)
+
+print("After adding:", numbers)
+print("Total unique numbers:", len(numbers))
